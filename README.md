@@ -1,34 +1,41 @@
-# Hi, I'm Saurav Shriwastav 👋 
-### Software Engineer | Full-Stack Developer | Desktop App Specialist
-
-[cite_start]I am a results-driven **Software Engineer** [cite: 4, 29] [cite_start]at **BigOH Tech** [cite: 30][cite_start], where I lead a 10-person frontend team [cite: 35] [cite_start]to build high-performance web and desktop applications[cite: 7]. [cite_start]I specialize in modernizing legacy systems—like migrating Angular 9 to 15 [cite: 36][cite_start]—and building cutting-edge tools for the aviation and trading industries[cite: 37].
-
----
-
-### 🛠️ Core Tech Stack
-- [cite_start]**Frontend:** Angular (v9-19.2) [cite: 15][cite_start], TypeScript [cite: 15][cite_start], RxJS [cite: 16][cite_start], PrimeNG [cite: 17][cite_start], Tailwind CSS [cite: 16]
-- [cite_start]**Desktop:** Electron.js 
-- [cite_start]**Backend:** Node.js, Express.js [cite: 19][cite_start], RESTful APIs 
-- [cite_start]**Database:** PostgreSQL [cite: 25][cite_start], SQLite [cite: 40, 25][cite_start], MongoDB [cite: 25]
-- [cite_start]**Optimization:** Signals [cite: 43][cite_start], SSR/CSR [cite: 21][cite_start], Multi-threaded Processing [cite: 41]
+# <p align="center">✨ Saurav Shriwastav ✨</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Angular+%26+Electron+Specialist;Team+Lead+@+BigOH+Tech" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 Key Project Portals
-* [cite_start]**FSCC (Desktop):** Built an Electron + Angular 19 app for aircraft document uploads, reducing processing time by 40%.
-* [cite_start]**FlyDocs:** Architected a global record management system used by airlines in 50+ countries[cite: 43].
-* [cite_start]**Indian Gas Exchange (IGX):** Developed real-time market dashboards for gas trading[cite: 44, 45].
+### 🚀 The Portal: From Associate to Lead
+[cite_start]I am a **Software Engineer** [cite: 4, 29] [cite_start]with a track record of delivering high-performance solutions across **Aviation, Hospitality, and Trading domains**[cite: 9, 37]. [cite_start]At **BigOH Tech**, I led a **10-person frontend team** [cite: 30, 35] [cite_start]and optimized enterprise systems used in over **50 countries**[cite: 43].
+
+- [cite_start]⚡ **Performance:** Reduced bundle sizes by **40%** and boosted efficiency by **20%**[cite: 37].
+- [cite_start]🛠️ **Modernization:** Migrated legacy systems from **Angular 9 to 15+**[cite: 36].
+- [cite_start]💻 **Desktop:** Architected multi-threaded file modules in **Electron.js**[cite: 40, 41].
 
 ---
 
-### 📊 Professional Metrics
-- [cite_start]📈 **20%** Performance boost through version migration[cite: 36].
-- [cite_start]📦 **40%** Reduction in bundle size through optimization[cite: 37].
-- [cite_start]⚡ **20%** Enhancement in overall system efficiency[cite: 37].
+### 🛠️ Tech Universe (Animated)
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Connect with Me
-- [cite_start]📍 Noida, India [cite: 5]
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- [cite_start]📧 [Vsaurav026@gmail.com](mailto:Vsaurav026@gmail.com)
+### 📊 Real-Time Activity Portal
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vsaurav026&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsaurav026&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 📫 Teleport to my Socials
+<p align="left">
+<a href="mailto:Vsaurav026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saurav-shriwastav-9865751b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
